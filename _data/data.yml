@@ -25,17 +25,11 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Amirkabir University of Technology
+        time: September 2016 - September 2020
+        company: Advisor : Mukund Raghothaman
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          No description
 
 projects:
     title: Projects
