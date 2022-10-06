@@ -18,7 +18,7 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
-    title: Amirmohammad Nazari
+    title: About Me
     summary: |
       Amirmohammad Nazari is a Ph.D. student of Computer Science Department at the University of Southern California, advised by Professor Mukund Raghothaman. His research interests include programming languages, formal verification, program synthesis, and program analysis. In particular, he is working on explaiable program frameworks, and recursive program synthesis. In his recent work, he introduced the idea of sub-specifications as a mechanism to augment the synthesized implementation with explanatory notes of this form. Moreover, he got his bachelor's degree in computer engineering from Amirkabir University of Technology.
 
