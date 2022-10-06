@@ -14,30 +14,14 @@ sidebar:
     # Sidebar links
     email: nazaria@usc.edu
     phone: +1 310-621-0676
-    timezone: 
-    citizenship:
-    website: 
-    linkedin: 
-    xing: 
-    github: 
-    telegram: 
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: 
-    codewars:
-    goodreads: 
+    location: Los Angeles, CA, USA
     pdf: http://www.africau.edu/images/default/sample.pdf
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Amirmohammad Nazari is a Ph.D. student of Computer Science Department at the University of Southern California, advised by Professor Mukund Raghothaman. His research interests include programming languages, formal verification, program synthesis, and program analysis. In particular, he is working on explaiable program frameworks, and recursive program synthesis. In his recent work, he introduced the idea of sub-specifications as a mechanism to augment the synthesized implementation with explanatory notes of this form. Moreover, he got his bachelor's degree in computer engineering from Amirkabir University of Technology.
+
 education:
     title: Education
     info:
